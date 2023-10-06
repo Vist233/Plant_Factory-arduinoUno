@@ -1,11 +1,25 @@
-# Plant_Factory-arduinoUno
-arduino uno以及薪火的配套组件实现植物工厂
+植物工厂
+
+使用arduino Grove套件来实现植物工厂
+
+功能有
+
+- 水滴传感器将爱内测是否下雨，下雨则控制舵机打开窗户
+
+- 超声波传感器检测是否有昆虫靠近，靠近发声
+
+- 湿度传感器检测湿度，湿度小就控制继电器闭合抽水
+
+- 光线传感器判断光线并输出到控制台（好像没啥用）
+
+![eba4ca07d7f6e5e52515784c6245fff](C:\Users\86138\Desktop\eba4ca07d7f6e5e52515784c6245fff.jpg)
+
+`Grove套件`
 
 
-Use an Arduino Uno microcontroller and complementary modules from Xinhuo to build the control system for a small-scale plant factory.
 
-The Arduino can automate environmental factors like lighting, humidity, nutrient dosing, etc. Xinhuo provides sensors, relays, pumps, and other components to interface with the Arduino and create a complete system to monitor and control the plant growth environment.
 
-With the simple programming capability of the Arduino platform, this provides an accessible way to prototype and test an indoor cultivation setup with precise control over the key plant growth parameters. The modular Xinhuo components enable the system to be customized to specific crop needs.
 
-Overall, the Arduino and Xinhuo modules can be used together to create an automated plant growth system with capabilities similar to a commercial-scale plant factory. This allows hands-on experimentation with the technology on a small budget.
+<img title="成品图" src="file:///C:/Users/86138/Pictures/Typedown/73d48ddc8bc9f0bf594a1df23a3cedf.jpg" alt="成品图">
+
+
