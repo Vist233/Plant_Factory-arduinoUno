@@ -2,7 +2,7 @@
 
 This project is a smart home system that uses various sensors and actuators to monitor and control the environment. The system includes an ultrasonic sensor, a DHT11 temperature and humidity sensor, a moisture sensor, a light sensor, a servo motor, a buzzer, an LED strip, and a relay.
 
-![Plant Factory](C:\Users\86138\OneDrive\Code\TestCode\Arduino Plant Factory\Plant_Factory-arduinoUno\Plant Factory.jpg)
+![Plant Factory](.\Plant Factory.jpg)
 
 ## Components
 
@@ -57,7 +57,7 @@ This project is a smart home system that uses various sensors and actuators to m
 
 ## Grove Develop Kit
 
-![Grove Develop Kit](C:\Users\86138\OneDrive\Code\TestCode\Arduino Plant Factory\Plant_Factory-arduinoUno\Grove Develop Kit.jpg)
+![Grove Develop Kit](.\Grove Develop Kit.jpg)
 
 
 ## License
